@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VdTXKUdeLQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcmco\\Desktop\\WMMR\\apps\\photoviewer\\Photon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcmco\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Drawing.Common não será podado. Considere remover este pacote das dependências, pois\u00A0ele provavelmente é desnecessário.",
+      "projectPath": "C:\\Users\\mcmco\\Desktop\\WMMR\\apps\\photoviewer\\Photon.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mcmco\\Desktop\\WMMR\\apps\\photoviewer\\Photon.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
